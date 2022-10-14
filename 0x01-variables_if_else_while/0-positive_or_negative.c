@@ -1,10 +1,10 @@
-#include <stdlib.h>
+#include <stdlib.h>                     
 #include <time.h>
 
-/**
- * main- Positive anything is better than negative nothing.
+/**                                                                        
+ * main- Positive anything is better than negative nothing.                
  *
- * Return: Always 0 (Success)
+ * Return: Always 0 (Success)                                              
  */
 int main(void)
 {
@@ -12,19 +12,18 @@ int main(void)
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
-	if (n > 0)
+	/*your code goes there */
+	if ( n > 0)
 	{
 		printf("%d is positive\n", n);
 	}
-	else if (n == 0)
+	else if
 	{
 		printf("%d is xero\n", n);
 	}
 	else
 	{
-		printf("%d is negative\n", n);
+		printf("%d is negative\n",, n);
 	}
 	return (0);
 }
-
