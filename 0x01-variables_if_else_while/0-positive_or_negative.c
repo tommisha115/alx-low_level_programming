@@ -1,6 +1,6 @@
 #include <stdlib.h>                     
 #include <time.h>
-
+#include <string.h>
 /**                                                                        
  * main- Positive anything is better than negative nothing.                
  *
