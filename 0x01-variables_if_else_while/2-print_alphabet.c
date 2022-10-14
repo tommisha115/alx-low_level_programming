@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- * task two
- * a program that prints the alphabet in lowercase, followed by a new line.
+ * main - main block
+ * Description: a program that prints the alphabet in lowercase, followed by a new line.
  *
- * Return: always 0
+ * Return: 0
  */
 int main(void)
 {
