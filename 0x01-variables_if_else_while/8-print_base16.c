@@ -1,9 +1,8 @@
 #include <stdio.h>
-
 /**
  * main - main block
  * Description: Print all numbers of base64 in lowercase.
- * Return: 0
+  * Return: 0
  */
 int main(void)
 {
