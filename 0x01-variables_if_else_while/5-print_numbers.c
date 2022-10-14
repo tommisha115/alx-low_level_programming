@@ -1,12 +1,9 @@
 #include <stdio.h>
-
 /**
  * main - main block
- *
- * Description: Print all numbers of base 
+ * Description: Print all numbers of base
  * Return: 0
  */
-
 int main(void)
 {
 	int a;
