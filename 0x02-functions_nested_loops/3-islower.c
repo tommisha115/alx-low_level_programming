@@ -1,4 +1,4 @@
-#include "notrebloh.h"
+#include "main.h"
 
 /**
  * _islower - checks if character is lowercase, return 1 is yes and 0 if not.
