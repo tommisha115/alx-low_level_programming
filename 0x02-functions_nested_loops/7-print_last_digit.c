@@ -1,4 +1,4 @@
-#include "notrebloh.h"
+#include "main.h"
 
 /**
  * print_last_digit - selects the last digit of an integer
