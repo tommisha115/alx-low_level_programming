@@ -1,4 +1,4 @@
-# include "notrebloh.h"
+#include "main.h"
 
 /**
  * add - get the last digit
